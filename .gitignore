@@ -130,3 +130,7 @@ dmypy.json
 
 # Config
 dl.cfg
+
+# Jupyter Notebooks
+*.ignore.ipynb
+*.ipynb_checkpoints
