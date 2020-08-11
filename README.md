@@ -1,4 +1,4 @@
-# Creating a Data Lake on AWS using Spark for the Music Streaming Service Sparkify
+# Creating a Data Lake on AWS using Apache Spark
 
 ## Table of Contents
 1. [Project Summary](#Project-Sumary)
@@ -9,9 +9,9 @@
 ## Project Summary <a name="Project-Sumary"></a>
 The analytics team of the fictional music streaming service Sparkify faces more and more data as the service grows.
 Thus, they now need to move their data warehouse to a data lake solution.
-The technical requirements for this project state, that an etl pipline for a data lake hosted on S3 should be build:
+The technical requirements for this project state, that an etl pipeline for a data lake hosted on S3 should be build:
 1. Data should be extracted from S3
-2. Data should be transformed and inserted into analytics tables using Sparl
+2. Data should be transformed and inserted into analytics tables using Spark
 3. The analyitcs tables should be loaded back into S3
 
 ## Installation <a name="Installation"></a>
